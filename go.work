@@ -1,3 +1,6 @@
 go 1.19
 
-use ./plus-minus
+use (
+	./breaking-the-records
+	./plus-minus
+)
